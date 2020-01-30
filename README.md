@@ -3,19 +3,18 @@ Simple front-end form with React, Material UI/ Datepicker, Date-fns and Axios.
 
 ## Used Packages
 
-Material ui
+- Material ui
 npm install @material-ui/core
 
-Material ui Datepicker
+- Material ui Datepicker
 npm i @material-ui/pickers
-
 https://material-ui-pickers.dev/getting-started/installation
 
-Date-fns
+- Date-fns
 npm i @date-io/date-fns@1.x date-fns
 https://date-fns.org/
 
-Axios
+- Axios
 npm install axios
 
 ## `npm start`
