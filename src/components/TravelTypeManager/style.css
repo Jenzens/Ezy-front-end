@@ -1,0 +1,22 @@
+.radio-wrapper{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.radio-box-1{
+    border: 1px solid rgb(168, 168, 172);
+    border-radius: 4px;
+    width: 50%;
+    text-align: center;
+}
+.radio-box-2{
+    border: 1px solid rgb(168, 168, 172);
+    border-radius: 4px;
+    width: 50%;
+    text-align: center;
+}
+
+.spacer{
+    width:2%;
+}
