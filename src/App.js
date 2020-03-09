@@ -238,7 +238,7 @@ class App extends Component {
             </div>
             <div className="form-footer-wrap">
               <div className="form-btn-cont">
-                <Button>Search</Button> 
+                <Button>Searcher</Button> 
               </div>
             </div>
           </form>
